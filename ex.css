@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@keyframe slide-up {
+  from {
+    transform: translated3d(0, 0, 0);
+  }
+  to {
+    transform: translated3d(0, 0, 0);
+  }
+}
+
