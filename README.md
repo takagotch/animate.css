@@ -33,6 +33,9 @@ sudo npm install
 <h1 class="animated infinite bounce delay-2s">Example</h1>
 
 <div class="animated bounce faster">Example</div>
+
+// https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css
+// https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
 ```
 
 ```css
